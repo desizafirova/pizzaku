@@ -352,6 +352,7 @@
   gap: 5rem;
   padding-top: 24.4rem;
   padding-right: 8.5rem;
+  padding-bottom: 30rem;
 }
 
 .best-pizza {
@@ -366,6 +367,7 @@
   font-weight: 400;
   font-family: 'Montserrat';
   padding-bottom: 3rem;
+  cursor: pointer;
 }
 
 .info {
@@ -381,6 +383,7 @@
   font-weight: 400;
   font-family: 'Montserrat';
   padding-bottom: 3rem;
+  cursor: pointer;
 }
 
 .section-item {
@@ -389,4 +392,15 @@
   color: #fff;
   font-weight: 400;
   font-family: 'Montserrat';
+  cursor: pointer;
+}
+
+.social-logos-flex {
+  display: flex;
+  gap: 1rem;
+  padding-top: 3rem;
+}
+
+.img-logo {
+  cursor: pointer;
 }
