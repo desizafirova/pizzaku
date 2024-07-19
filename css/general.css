@@ -1,0 +1,18 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  max-width: 144rem;
+  margin: 0 auto;
+}
+
+.container {
+  height: 80rem;
+}
+
+.secondary-heading {
+  color: #fff;
+  font-weight: 400;
+  font-family: 'Abril Fatface';
+}

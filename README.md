@@ -1,2 +1,0 @@
-# pizzaku
-Pixel Perfect project
